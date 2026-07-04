@@ -5,11 +5,10 @@ ________________________________________________________________________________
 MAKE YOUR DREAMS HAPPEN BY STAYING ORGANIZED!!! USE TIME MANAGMENT ON THE GO WITH AN AUTOMATED TO DO AGENDA. JUST FILL IN THE TASK, MOVE IT TO THE NEXT PHASE, AND DRAG TO TRASH OR MOVE TASK TO ANOTHER PHASE. ONE DAY AT A TIME!!! THE JOURNEY TO A THOUSAND CODE BLOCKS STARTS WITH ONE.
 _________________________________________________________________________________________________________________________________________________________________________
 
-LINK: https://karltunmoreno.github.io/Task-Manager/
+LINK:https://maxkarltun.github.io/Task-Manager/
 
-_________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
 
-![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/111111.jpg)
 
  #### Front-end:
  
