@@ -2,11 +2,11 @@
 
 A drag-and-drop task board that helps you organize work by status, track deadlines, and stay productive.
 
-[Live Demo](https://karltunmoreno.github.io/Task-Manager/)
+[Live Demo]   https://maxkarltun.github.io/Task-Manager/
 
 ## Preview
 
-![Task Manager Screenshot](https://karltunmoreno.github.io/My-Portfolio/assets/images/111111.jpg)
+
 
 ## Features
 
