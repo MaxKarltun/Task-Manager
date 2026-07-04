@@ -1,41 +1,81 @@
-# Task-Manager
+# Task Manager
 
-______________________________________________________________________________________________________________________________________________________________________
-# ABOUT
-MAKE YOUR DREAMS HAPPEN BY STAYING ORGANIZED!!! USE TIME MANAGMENT ON THE GO WITH AN AUTOMATED TO DO AGENDA. JUST FILL IN THE TASK, MOVE IT TO THE NEXT PHASE, AND DRAG TO TRASH OR MOVE TASK TO ANOTHER PHASE. ONE DAY AT A TIME!!! THE JOURNEY TO A THOUSAND CODE BLOCKS STARTS WITH ONE.
-_________________________________________________________________________________________________________________________________________________________________________
+A drag-and-drop task board that helps you organize work by status, track deadlines, and stay productive.
 
-LINK:https://maxkarltun.github.io/Task-Manager/
+[Live Demo](https://karltunmoreno.github.io/Task-Manager/)
 
-____________________________________________________________________________________________________________________________________________________________________
+## Preview
 
+![Task Manager Screenshot](https://karltunmoreno.github.io/My-Portfolio/assets/images/111111.jpg)
 
- #### Front-end:
- 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
-	
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
-	
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white&style=for-the-badge)
+## Features
 
-**Work Done:**
+- Create, edit, and delete tasks
+- Inline editing for task descriptions
+- Due date selection with date picker
+- Drag-and-drop tasks across workflow columns
+- Delete tasks by dragging to trash
+- Overdue and near-due task highlighting
+- Periodic deadline checks for real-time status updates
+- Responsive interface styled with Bootstrap
 
-- Created a task's description to turn it into an editable field.
-- Created a task's due date to turn it into an editable field.
-- Created a clicking off of either element turns it back into its original form.
-Title: Update layout for new statuses
-- Added columns for In Progress, In Review, and Done.
-- Added additional Bootstrap components.
-Title: Added drag/drop capabilities
-- Implemented dragging within and between columns, using JQUERY
-- Implemented dragging to trash to delete a task section.
-Title: Added a due date handling
-- Added a calendar datepicker for setting due dates.
-- Conditionally highlighted tasks that are near/overdue.
-Title: Customize/improve user experience
-- Periodically check if tasks are overdue.
-- Implemented custom fonts and icons.
-- Customized UI colors.
+## Workflow Columns
+
+- **To Do**
+- **In Progress**
+- **In Review**
+- **Done**
+
+## Tech Stack
+
+### Core
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Libraries & Tools
+
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery UI](https://img.shields.io/badge/jQuery_UI-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery UI Touch Punch](https://img.shields.io/badge/jQuery_UI_Touch_Punch-333333?style=for-the-badge&logo=jquery&logoColor=white)
+![Day.js](https://img.shields.io/badge/Day.js-FF5F5F?style=for-the-badge)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MaxKarltun/Task-Manager.git
+   ```
+
+2. Navigate into the project folder:
+   ```bash
+   cd Task-Manager
+   ```
+
+3. Open `index.html` in your browser.
+
+## Usage
+
+1. Add a new task.
+2. Edit task text by clicking on it.
+3. Assign or update due dates.
+4. Drag tasks between columns as progress changes.
+5. Drag tasks to trash when no longer needed.
+
+## Project Improvements Implemented
+
+- Editable task descriptions and due dates
+- Expanded board layout with additional status columns
+- Drag-and-drop across columns and into trash
+- Calendar datepicker integration
+- Conditional overdue/near-due styling
+- UI enhancements with custom styling, icons, and fonts
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
