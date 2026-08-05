@@ -6,6 +6,8 @@ A drag-and-drop task board that helps you organize work by status, track deadlin
 
 ## Preview
 
+![App Screenshot](TMP.png)
+
 
 
 ## Features
